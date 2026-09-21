@@ -1,0 +1,6 @@
+{
+  "name": "Default PVC Printer",
+  "x_offset_mm": 0.0,
+  "y_offset_mm": 0.0,
+  "dpi": 300
+}
